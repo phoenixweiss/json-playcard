@@ -16,7 +16,7 @@
       "suit_mark": "♥",
       "rank": 2,
       "sign": 2,
-      "title": 2,
+      "title": "Two",
       "title_mark": null,
       "unicode": "U+1F0B2"
     },
@@ -26,7 +26,7 @@
       "suit_mark": "♥",
       "rank": 3,
       "sign": 3,
-      "title": 3,
+      "title": "Three",
       "title_mark": null,
       "unicode": "U+1F0B3"
     },
@@ -36,7 +36,7 @@
       "suit_mark": "♥",
       "rank": 4,
       "sign": 4,
-      "title": 4,
+      "title": "Four",
       "title_mark": null,
       "unicode": "U+1F0B4"
     },
@@ -46,7 +46,7 @@
       "suit_mark": "♥",
       "rank": 5,
       "sign": 5,
-      "title": 5,
+      "title": "Five",
       "title_mark": null,
       "unicode": "U+1F0B5"
     },
@@ -56,7 +56,7 @@
       "suit_mark": "♥",
       "rank": 6,
       "sign": 6,
-      "title": 6,
+      "title": "Six",
       "title_mark": null,
       "unicode": "U+1F0B6"
     },
@@ -66,7 +66,7 @@
       "suit_mark": "♥",
       "rank": 7,
       "sign": 7,
-      "title": 7,
+      "title": "Seven",
       "title_mark": null,
       "unicode": "U+1F0B7"
     },
@@ -76,7 +76,7 @@
       "suit_mark": "♥",
       "rank": 8,
       "sign": 8,
-      "title": 8,
+      "title": "Eight",
       "title_mark": null,
       "unicode": "U+1F0B8"
     },
@@ -86,7 +86,7 @@
       "suit_mark": "♥",
       "rank": 9,
       "sign": 9,
-      "title": 9,
+      "title": "Nine",
       "title_mark": null,
       "unicode": "U+1F0B9"
     },
@@ -96,7 +96,7 @@
       "suit_mark": "♥",
       "rank": 10,
       "sign": 10,
-      "title": 10,
+      "title": "Ten",
       "title_mark": null,
       "unicode": "U+1F0BA"
     },
@@ -146,7 +146,7 @@
       "suit_mark": "♦",
       "rank": 2,
       "sign": 2,
-      "title": 2,
+      "title": "Two",
       "title_mark": null,
       "unicode": "U+1F0C2"
     },
@@ -156,7 +156,7 @@
       "suit_mark": "♦",
       "rank": 3,
       "sign": 3,
-      "title": 3,
+      "title": "Three",
       "title_mark": null,
       "unicode": "U+1F0C3"
     },
@@ -166,7 +166,7 @@
       "suit_mark": "♦",
       "rank": 4,
       "sign": 4,
-      "title": 4,
+      "title": "Four",
       "title_mark": null,
       "unicode": "U+1F0C4"
     },
@@ -176,7 +176,7 @@
       "suit_mark": "♦",
       "rank": 5,
       "sign": 5,
-      "title": 5,
+      "title": "Five",
       "title_mark": null,
       "unicode": "U+1F0C5"
     },
@@ -186,7 +186,7 @@
       "suit_mark": "♦",
       "rank": 6,
       "sign": 6,
-      "title": 6,
+      "title": "Six",
       "title_mark": null,
       "unicode": "U+1F0C6"
     },
@@ -196,7 +196,7 @@
       "suit_mark": "♦",
       "rank": 7,
       "sign": 7,
-      "title": 7,
+      "title": "Seven",
       "title_mark": null,
       "unicode": "U+1F0C7"
     },
@@ -206,7 +206,7 @@
       "suit_mark": "♦",
       "rank": 8,
       "sign": 8,
-      "title": 8,
+      "title": "Eight",
       "title_mark": null,
       "unicode": "U+1F0C8"
     },
@@ -216,7 +216,7 @@
       "suit_mark": "♦",
       "rank": 9,
       "sign": 9,
-      "title": 9,
+      "title": "Nine",
       "title_mark": null,
       "unicode": "U+1F0C9"
     },
@@ -226,7 +226,7 @@
       "suit_mark": "♦",
       "rank": 10,
       "sign": 10,
-      "title": 10,
+      "title": "Ten",
       "title_mark": null,
       "unicode": "U+1F0CA"
     },
@@ -286,7 +286,7 @@
       "suit_mark": "♠",
       "rank": 2,
       "sign": 2,
-      "title": 2,
+      "title": "Two",
       "title_mark": null,
       "unicode": "U+1F0A2"
     },
@@ -296,7 +296,7 @@
       "suit_mark": "♠",
       "rank": 3,
       "sign": 3,
-      "title": 3,
+      "title": "Three",
       "title_mark": null,
       "unicode": "U+1F0A3"
     },
@@ -306,7 +306,7 @@
       "suit_mark": "♠",
       "rank": 4,
       "sign": 4,
-      "title": 4,
+      "title": "Four",
       "title_mark": null,
       "unicode": "U+1F0A4"
     },
@@ -316,7 +316,7 @@
       "suit_mark": "♠",
       "rank": 5,
       "sign": 5,
-      "title": 5,
+      "title": "Five",
       "title_mark": null,
       "unicode": "U+1F0A5"
     },
@@ -326,7 +326,7 @@
       "suit_mark": "♠",
       "rank": 6,
       "sign": 6,
-      "title": 6,
+      "title": "Six",
       "title_mark": null,
       "unicode": "U+1F0A6"
     },
@@ -336,7 +336,7 @@
       "suit_mark": "♠",
       "rank": 7,
       "sign": 7,
-      "title": 7,
+      "title": "Seven",
       "title_mark": null,
       "unicode": "U+1F0A7"
     },
@@ -346,7 +346,7 @@
       "suit_mark": "♠",
       "rank": 8,
       "sign": 8,
-      "title": 8,
+      "title": "Eight",
       "title_mark": null,
       "unicode": "U+1F0A8"
     },
@@ -356,7 +356,7 @@
       "suit_mark": "♠",
       "rank": 9,
       "sign": 9,
-      "title": 9,
+      "title": "Nine",
       "title_mark": null,
       "unicode": "U+1F0A9"
     },
@@ -366,7 +366,7 @@
       "suit_mark": "♠",
       "rank": 10,
       "sign": 10,
-      "title": 10,
+      "title": "Ten",
       "title_mark": null,
       "unicode": "U+1F0AA"
     },
@@ -416,7 +416,7 @@
       "suit_mark": "♣",
       "rank": 2,
       "sign": 2,
-      "title": 2,
+      "title": "Two",
       "title_mark": null,
       "unicode": "U+1F0D2"
     },
@@ -426,7 +426,7 @@
       "suit_mark": "♣",
       "rank": 3,
       "sign": 3,
-      "title": 3,
+      "title": "Three",
       "title_mark": null,
       "unicode": "U+1F0D3"
     },
@@ -436,7 +436,7 @@
       "suit_mark": "♣",
       "rank": 4,
       "sign": 4,
-      "title": 4,
+      "title": "Four",
       "title_mark": null,
       "unicode": "U+1F0D4"
     },
@@ -446,7 +446,7 @@
       "suit_mark": "♣",
       "rank": 5,
       "sign": 5,
-      "title": 5,
+      "title": "Five",
       "title_mark": null,
       "unicode": "U+1F0D5"
     },
@@ -456,7 +456,7 @@
       "suit_mark": "♣",
       "rank": 6,
       "sign": 6,
-      "title": 6,
+      "title": "Six",
       "title_mark": null,
       "unicode": "U+1F0D6"
     },
@@ -466,7 +466,7 @@
       "suit_mark": "♣",
       "rank": 7,
       "sign": 7,
-      "title": 7,
+      "title": "Seven",
       "title_mark": null,
       "unicode": "U+1F0D7"
     },
@@ -476,7 +476,7 @@
       "suit_mark": "♣",
       "rank": 8,
       "sign": 8,
-      "title": 8,
+      "title": "Eight",
       "title_mark": null,
       "unicode": "U+1F0D8"
     },
@@ -486,7 +486,7 @@
       "suit_mark": "♣",
       "rank": 9,
       "sign": 9,
-      "title": 9,
+      "title": "Nine",
       "title_mark": null,
       "unicode": "U+1F0D9"
     },
@@ -496,7 +496,7 @@
       "suit_mark": "♣",
       "rank": 10,
       "sign": 10,
-      "title": 10,
+      "title": "Ten",
       "title_mark": null,
       "unicode": "U+1F0DA"
     },
